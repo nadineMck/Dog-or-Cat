@@ -53,3 +53,5 @@ cd Dog-Or-Cat
 
 
 **Make sure to change the path for the data in the code**
+**The dataset is from kaggle on this link:**
+https://www.kaggle.com/datasets/subho117/cat-and-dog-classification-using-cnn
